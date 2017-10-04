@@ -1,0 +1,44 @@
+{
+   "songs":[
+      {
+         "id":0,
+         "name":"Imitadora",
+         "artist":"Romeo santos",
+         "song":"musica/Romeo Santos - Imitadora (Official Lyric Video).mp3",
+         "image":"imagenes/romeo.jpg"
+      },
+    {
+         "id":1,
+         "name":"Se preparo",
+         "artist":"ozuna",
+         "song":"musica/Ozuna - Se Preparó.mp3",
+        "image":"imagenes/se preparo.jpg"
+      },  
+    {
+         "id":2,
+         "name":"No tiene la culpa",
+         "artist":"Romeo santos",
+         "song":"musica/Romeo Santos - No tiene la culpa (Letra-Lyrics).mp3",
+         "image":"imagenes/No tiene la culpa.jpg"
+      },
+    {
+         "id":3,
+         "name":"Tu foto",
+         "artist":"ozuna",
+         "song":"musica/Tu Foto - Ozuna (Video Oficial).mp3",
+         "image":"imagenes/tu foto.jpg"
+     },
+    {
+         "id":4,
+         "name":"El Farsante",
+         "artist":"ozuna",
+         "song":"musica/Ozuna - El Farsante (Audio Oficial ).mp3",
+         "image":"imagenes/farsante.png"
+      }
+   
+
+
+   	
+
+   ]
+}
